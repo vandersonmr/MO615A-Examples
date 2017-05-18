@@ -1,0 +1,17 @@
+4
+main 4 4
+1 0
+6:7:i
+2 1
+8:5:c:getWakeLock 1
+3 1
+10:5:c:getWakeLock 0
+4 2
+13:3:c:freeWakeLock 0
+14:3:c:freeWakeLock 1
+1 -> 2
+1 -> 3
+2 -> 4
+3 -> 4
+getWakeLock 0 0
+freeWakeLock 0 0

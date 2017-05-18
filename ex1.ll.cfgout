@@ -1,0 +1,7 @@
+3
+main 1 0
+1 2
+6:3:c:getWakeLock 1
+7:3:c:freeWakeLock 1
+getWakeLock 0 0
+freeWakeLock 0 0

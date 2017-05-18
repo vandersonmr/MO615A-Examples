@@ -1,0 +1,14 @@
+6
+foo1 1 0
+1 1
+5:3:c:getWakeLock 1
+getWakeLock 0 0
+foo2 1 0
+1 1
+8:18:i
+9:3:i
+10:3:c:freeWakeLock 1
+freeWakeLock 0 0
+main 1 0
+1 1
+14:3:c:foo2
