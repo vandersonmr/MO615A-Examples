@@ -13,7 +13,7 @@ foo1 4 4
 getWakeLock 0 0
 freeWakeLock 0 0
 foo2 1 0
-1 1
+1 2
 12:3:i
 13:3:c:freeWakeLock 1
 main 1 0
