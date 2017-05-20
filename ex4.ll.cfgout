@@ -4,7 +4,7 @@ foo1 1 0
 5:3:c:getWakeLock 1
 getWakeLock 0 0
 foo2 1 0
-1 1
+1 2
 9:3:i
 10:3:c:freeWakeLock 1
 freeWakeLock 0 0
